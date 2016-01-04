@@ -1,0 +1,5 @@
+1、引入Spring、Spring MVC、Spring Data Jpa的包
+2、配置web.xml：加载配置文件、请求拦截器、监听器
+3、配置Spring MVC文件：sssp-servlet.xml
+4、配置Spring文件：applicationContext.xml，自动扫描注解、数据源、实体管理工厂、事务管理、Spring Data
+5、完成
